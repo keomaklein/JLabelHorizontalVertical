@@ -1,4 +1,4 @@
-# JLabelHorizontalVertical
+# Rotacionar um JLabel
 Classe para rotacionar o JLabel em 0°, 90°, 180° e 270°.
 
 Esta é uma simple implementação para rotacionar o JLabel em 0°, 90°, 180° e 270°.
